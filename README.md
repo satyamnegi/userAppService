@@ -14,6 +14,8 @@
 
 * Spring security
 
+* HEROKU cloud
+
 Project is structured and grouped in a standard format.
 
 #### How to run the application:
