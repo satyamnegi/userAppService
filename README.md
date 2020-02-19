@@ -1,4 +1,4 @@
-# userAppService
+# UserAppService
 
 ## To update user details like get/save/update/delete operations
 
